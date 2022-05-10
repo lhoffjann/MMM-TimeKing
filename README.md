@@ -1,2 +1,2 @@
-# friendly-fortnight
-This is a MagicMirrorModule with displays your 
+# TimeKing
+This is a MagicMirrorModule with displays your Toggl Time entries
