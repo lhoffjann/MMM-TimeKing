@@ -1,2 +1,2 @@
 # TimeKing
-This is a MagicMirrorModule with displays your Toggl Time entries
+This is a MagicMirrorModule which displays your Toggl Time entries
